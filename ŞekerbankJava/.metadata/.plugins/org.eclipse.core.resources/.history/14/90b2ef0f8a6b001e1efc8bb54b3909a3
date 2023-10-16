@@ -1,8 +1,0 @@
-package Reader;
-
-public class Word {
-		
-	public String word(char seperator) {
-		
-	}
-}
